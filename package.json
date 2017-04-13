@@ -1,0 +1,11 @@
+{
+  "private": true,
+  "scripts": {
+    "start": "NODE_PATH='./' node --harmony index.js"
+  },
+  "dependencies": {
+    "express": "4.15.2",
+    "lodash": "4.17.4",
+    "socket.io": "1.7.3"
+  }
+}
